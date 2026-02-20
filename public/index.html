@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Open Roles</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header>
+        <h1>Open Roles</h1>
+        <p class="subtitle">
+          Explore current opportunities. This page is externally shareable and informational only.
+        </p>
+      </header>
+
+      <section class="disclaimer" aria-label="Informational use disclaimer">
+        <p><strong>Disclaimer: Informational Use Only</strong></p>
+        <p>
+          <strong>Notice:</strong> This document is shared for informational purposes only and does not
+          constitute an open job requisition or an offer of employment.
+        </p>
+        <p>
+          <strong>Application Protocol:</strong>
+          To be formally considered for employment, candidates must submit an application through our
+          official corporate careers portal or be referred by a current Dave employee. We are unable
+          to accept resumes, CVs, or applications via email or social media to ensure compliance with
+          hiring regulations.
+        </p>
+        <p>
+          <strong>Official Careers Portal:</strong>
+          <a href="https://jobs.ashbyhq.com/dave" target="_blank" rel="noreferrer">https://jobs.ashbyhq.com/dave</a>
+        </p>
+      </section>
+
+      <section class="meta" id="meta">Loading roles…</section>
+      <section id="jobs" class="grid"></section>
+    </main>
+
+    <template id="job-card-template">
+      <article class="card">
+        <h2></h2>
+        <p class="details"></p>
+        <p class="summary"></p>
+      </article>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
