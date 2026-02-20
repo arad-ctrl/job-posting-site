@@ -58,3 +58,6 @@ Open `http://localhost:3000`.
 
 - If upstream access is blocked (403/internal ACL/network), the endpoint returns the error in `error` for diagnostics.
 - Legacy env vars `JOB_BOARD_API_URL` and `JOB_BOARD_API_TOKEN` still work as fallbacks for compatibility.
+
+# job-posting-site
+
