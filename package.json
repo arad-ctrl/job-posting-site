@@ -1,0 +1,13 @@
+{
+  "name": "job-posting-site",
+  "version": "1.0.0",
+  "description": "Externally shareable careers page that mirrors internal job board listings without accepting applications.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "verify:readiness": "./scripts/verify-readiness.sh"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
