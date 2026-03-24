@@ -61,9 +61,11 @@ function ashbyPost(endpoint, body = {}) {
 
     const req = https.request(options, (res) => {
       let raw = '';
-      res.on('data', (chunk) => { raw += chunk; });
-      res.on('end',  () => {
-        try   { resolve(JSON.parse(raw)); }
+      console.log(`   HTTP status: ${res.statusCode}`);
+res.on('data', (chunk) => { raw += chunk; });
+res.on('end',  () => {
+  console.log(`   Raw response: ${raw.slice(0, 300)}`);
+  try   { resolve(JSON.parse(raw)); }
         catch { reject(new Error(`Non-JSON response from Ashby: ${raw.slice(0, 200)}`)); }
       });
     });
