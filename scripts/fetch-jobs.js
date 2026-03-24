@@ -16,6 +16,7 @@ const fs    = require('fs');
 const path  = require('path');
 
 const API_KEY = process.env.ASHBY_API_KEY;
+console.log(`🔑 Key loaded: ${API_KEY ? API_KEY.slice(0,4) + "****" : "MISSING"}`);
 
 if (!API_KEY) {
   console.error('❌  ASHBY_API_KEY environment variable is missing.');
