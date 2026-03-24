@@ -1,0 +1,60 @@
+name: Refresh Job Listings
+
+# ─────────────────────────────────────────────────────────────
+# Runs on a daily schedule + can be triggered manually from
+# the GitHub Actions UI (great for testing or forcing a refresh)
+# ─────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Daily at 9:00 AM UTC  =  5:00 AM ET  /  2:00 AM PT
+    # Adjust the cron string if you want a different cadence.
+    # Format:  minute  hour  day  month  weekday
+    - cron: '0 9 * * *'
+
+  # Lets you click "Run workflow" in the GitHub Actions tab anytime
+  workflow_dispatch:
+
+jobs:
+  refresh-jobs:
+    runs-on: ubuntu-latest
+
+    # Required so the bot can push the updated jobs.json back to main
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Pull down the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Node (the fetch script uses only built-in modules,
+      #    but Node ≥18 is a good baseline)
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. Run the fetch script — API key comes from GitHub Secrets
+      #    (Settings → Secrets and variables → Actions → New repository secret)
+      #    Secret name must be exactly:  ASHBY_API_KEY
+      - name: Fetch jobs from Ashby
+        env:
+          ASHBY_API_KEY: ${{ secrets.ASHBY_API_KEY }}
+        run: node scripts/fetch-jobs.js
+
+      # 4. Commit the refreshed jobs.json if it changed
+      #    If nothing changed, `git diff --staged --quiet` exits 0
+      #    and we skip the commit — no noisy empty commits.
+      - name: Commit updated jobs.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          if git diff --staged --quiet; then
+            echo "ℹ️  No changes to jobs.json — skipping commit."
+          else
+            git commit -m "chore: refresh job listings [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+            echo "✅  jobs.json committed and pushed."
+          fi

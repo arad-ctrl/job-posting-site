@@ -1,0 +1,20 @@
+{
+  "name": "dave-referral-jobs-site",
+  "version": "1.0.0",
+  "description": "Single-page referral jobs viewer for Dave using Ashby API, deployable to GCP Cloud Run.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "NODE_ENV=development nodemon src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

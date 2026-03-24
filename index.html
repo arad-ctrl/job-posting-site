@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dave Internal Jobs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── Reset & tokens ─────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0a0f1e;
+      --surface:   #111827;
+      --card:      #131d2e;
+      --border:    rgba(255,255,255,0.07);
+      --blue:      #2563eb;
+      --blue-dim:  #1d4ed8;
+      --blue-glow: rgba(37,99,235,0.18);
+      --teal:      #0d9488;
+      --text:      #f1f5f9;
+      --muted:     #94a3b8;
+      --tag-bg:    rgba(37,99,235,0.12);
+      --tag-text:  #93c5fd;
+      --radius:    10px;
+      --font-sans: 'DM Sans', system-ui, sans-serif;
+      --font-mono: 'DM Mono', monospace;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Background texture ─────────────────────────────── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 10% 0%, rgba(37,99,235,0.07) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 90% 100%, rgba(13,148,136,0.05) 0%, transparent 55%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .page { position: relative; z-index: 1; max-width: 960px; margin: 0 auto; padding: 0 24px 80px; }
+
+    /* ── Header ─────────────────────────────────────────── */
+    header {
+      padding: 48px 0 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 36px;
+    }
+
+    .wordmark {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .wordmark-icon {
+      width: 32px;
+      height: 32px;
+      background: var(--blue);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 13px;
+      font-weight: 500;
+      color: #fff;
+      letter-spacing: -0.5px;
+      flex-shrink: 0;
+    }
+
+    .wordmark-label {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    header h1 {
+      font-size: clamp(26px, 4vw, 34px);
+      font-weight: 600;
+      letter-spacing: -0.5px;
+      color: var(--text);
+      line-height: 1.2;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 15px;
+      max-width: 480px;
+    }
+
+    .header-meta {
+      margin-top: 4px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--muted);
+      opacity: 0.6;
+    }
+
+    /* ── Controls ───────────────────────────────────────── */
+    .controls {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .search-wrap {
+      flex: 1;
+      min-width: 200px;
+      position: relative;
+    }
+
+    .search-wrap svg {
+      position: absolute;
+      left: 13px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      pointer-events: none;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px 10px 38px;
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s;
+      -webkit-appearance: none;
+    }
+
+    input[type="search"]:focus { border-color: var(--blue); }
+    input[type="search"]::placeholder { color: var(--muted); opacity: 0.7; }
+
+    select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.2s;
+      -webkit-appearance: none;
+      appearance: none;
+      padding-right: 32px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+    }
+
+    select:focus { border-color: var(--blue); }
+
+    /* ── Results bar ────────────────────────────────────── */
+    .results-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .count-badge {
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 500;
+      padding: 2px 8px;
+      border-radius: 20px;
+    }
+
+    /* ── Job cards ──────────────────────────────────────── */
+    #job-list { display: flex; flex-direction: column; gap: 12px; }
+
+    .job-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      animation: fadeUp 0.3s ease both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .job-card:hover {
+      border-color: rgba(37,99,235,0.35);
+      box-shadow: 0 0 0 1px rgba(37,99,235,0.1), 0 4px 24px rgba(0,0,0,0.3);
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .job-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text);
+      letter-spacing: -0.2px;
+      line-height: 1.3;
+    }
+
+    .apply-btn {
+      flex-shrink: 0;
+      background: var(--blue);
+      color: #fff;
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 500;
+      padding: 7px 16px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s;
+      white-space: nowrap;
+    }
+
+    .apply-btn:hover { background: var(--blue-dim); }
+
+    .apply-btn-disabled {
+      background: rgba(255,255,255,0.06);
+      color: var(--muted);
+      cursor: default;
+      pointer-events: none;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      border-radius: 4px;
+      padding: 3px 8px;
+    }
+
+    .tag.dept  { color: #a5f3fc; background: rgba(6,182,212,0.1); }
+    .tag.loc   { color: #bbf7d0; background: rgba(16,185,129,0.08); }
+    .tag.type  { color: #ddd6fe; background: rgba(139,92,246,0.1); }
+    .tag.comp  { color: #fde68a; background: rgba(245,158,11,0.1); }
+    .tag.remote { color: #99f6e4; background: rgba(13,148,136,0.1); }
+
+    /* ── Empty / loading states ─────────────────────────── */
+    .state-box {
+      text-align: center;
+      padding: 64px 24px;
+      color: var(--muted);
+    }
+
+    .state-box .icon { font-size: 40px; margin-bottom: 12px; }
+    .state-box h3 { font-size: 17px; color: var(--text); margin-bottom: 6px; }
+    .state-box p  { font-size: 14px; }
+
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--blue);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ─────────────────────────────────────────── */
+    footer {
+      margin-top: 64px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--muted);
+      opacity: 0.5;
+    }
+
+    /* ── Responsive ─────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .controls { flex-direction: column; }
+      .search-wrap, select { width: 100%; }
+      .card-top { flex-direction: column; }
+      .apply-btn { width: 100%; text-align: center; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+
+    <!-- Header -->
+    <header>
+      <div class="wordmark">
+        <div class="wordmark-icon">D</div>
+        <span class="wordmark-label">Dave · Internal Careers</span>
+      </div>
+      <h1>Open Roles</h1>
+      <p>Know someone great? Share a role — refer the underdog who belongs here.</p>
+      <div class="header-meta" id="last-updated">Loading…</div>
+    </header>
+
+    <!-- Controls -->
+    <div class="controls">
+      <div class="search-wrap">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="search" id="search-input" placeholder="Search roles…" autocomplete="off" />
+      </div>
+      <select id="dept-filter">
+        <option value="">All Departments</option>
+      </select>
+      <select id="loc-filter">
+        <option value="">All Locations</option>
+      </select>
+    </div>
+
+    <!-- Results bar -->
+    <div class="results-bar">
+      <span id="results-label">Loading roles…</span>
+      <span class="count-badge" id="count-badge">—</span>
+    </div>
+
+    <!-- Job list -->
+    <div id="job-list">
+      <div class="state-box">
+        <div class="spinner"></div>
+        <p>Fetching roles…</p>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      Dave Talent Acquisition &nbsp;·&nbsp;
+      Internal use only — do not distribute externally &nbsp;·&nbsp;
+      Ready to build for the underdog?
+    </footer>
+
+  </div>
+
+  <script>
+    // ── State ────────────────────────────────────────────────
+    let allJobs      = [];
+    let filteredJobs = [];
+
+    // ── DOM refs ─────────────────────────────────────────────
+    const listEl      = document.getElementById('job-list');
+    const searchEl    = document.getElementById('search-input');
+    const deptEl      = document.getElementById('dept-filter');
+    const locEl       = document.getElementById('loc-filter');
+    const labelEl     = document.getElementById('results-label');
+    const badgeEl     = document.getElementById('count-badge');
+    const updatedEl   = document.getElementById('last-updated');
+
+    // ── Fetch jobs.json ──────────────────────────────────────
+    async function loadJobs() {
+      try {
+        const res  = await fetch('jobs.json?v=' + Date.now());
+        const data = await res.json();
+
+        allJobs = data.jobs ?? [];
+
+        // Last-updated line
+        if (data.fetchedAt) {
+          const d = new Date(data.fetchedAt);
+          updatedEl.textContent = 'Last refreshed: ' + d.toLocaleString('en-US', {
+            month: 'short', day: 'numeric', year: 'numeric',
+            hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+          });
+        } else {
+          updatedEl.textContent = 'Refresh pending — run the GitHub Action to populate jobs.';
+        }
+
+        buildFilters();
+        applyFilters();
+
+      } catch (err) {
+        listEl.innerHTML = `
+          <div class="state-box">
+            <div class="icon">⚠️</div>
+            <h3>Could not load jobs</h3>
+            <p>Run the GitHub Action once to generate jobs.json, then this page will populate.</p>
+          </div>`;
+        updatedEl.textContent = '';
+      }
+    }
+
+    // ── Build department + location dropdowns from live data ─
+    function buildFilters() {
+      const depts = [...new Set(allJobs.map(j => dept(j)).filter(Boolean))].sort();
+      const locs  = [...new Set(allJobs.map(j => getLocation(j)).filter(Boolean))].sort();
+
+      depts.forEach(d => {
+        const o = document.createElement('option');
+        o.value = d; o.textContent = d;
+        deptEl.appendChild(o);
+      });
+
+      locs.forEach(l => {
+        const o = document.createElement('option');
+        o.value = l; o.textContent = l;
+        locEl.appendChild(o);
+      });
+    }
+
+    // ── Field accessors (Ashby field names vary slightly) ────
+    function title(j)    { return j.title ?? j.name ?? ''; }
+    function dept(j)     { return j.department?.name ?? j.departmentName ?? ''; }
+    function getLocation(j) {
+      const loc = j.location ?? j.locationName ?? j.primaryLocation;
+      if (typeof loc === 'string') return loc;
+      if (loc?.name) return loc.name;
+      return '';
+    }
+    function empType(j)  { return j.employmentType ?? j.type ?? ''; }
+    function isRemote(j) { return j.isRemote ?? j.remote ?? false; }
+    function comp(j)     {
+      const c = j.compensation ?? j.salary ?? j.compensationTierSummary ?? null;
+      if (!c) return null;
+      if (typeof c === 'string') return c;
+      if (c.summaryComponents) return c.summaryComponents.map(x => x.label || x).join(' + ');
+      if (c.minValue && c.maxValue) {
+        const fmt = (n) => '$' + Math.round(n / 1000) + 'K';
+        return `${fmt(c.minValue)}–${fmt(c.maxValue)}`;
+      }
+      return null;
+    }
+    function applyUrl(j) { return j.applyUrl ?? j.applicationLink ?? j.jobUrl ?? null; }
+
+    // ── Filter & render ──────────────────────────────────────
+    function applyFilters() {
+      const q    = searchEl.value.trim().toLowerCase();
+      const dept_ = deptEl.value;
+      const loc_  = locEl.value;
+
+      filteredJobs = allJobs.filter(j => {
+        if (dept_ && dept(j) !== dept_) return false;
+        if (loc_  && getLocation(j) !== loc_)  return false;
+        if (q) {
+          const hay = [title(j), dept(j), getLocation(j), empType(j)].join(' ').toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+
+      render();
+    }
+
+    function render() {
+      const n = filteredJobs.length;
+      badgeEl.textContent = n === 1 ? '1 role' : `${n} roles`;
+      labelEl.textContent = n === 0
+        ? 'No roles match your filters'
+        : `Showing ${n} open role${n === 1 ? '' : 's'}`;
+
+      if (n === 0) {
+        listEl.innerHTML = `
+          <div class="state-box">
+            <div class="icon">🔍</div>
+            <h3>No roles found</h3>
+            <p>Try a different search or clear the filters.</p>
+          </div>`;
+        return;
+      }
+
+      listEl.innerHTML = filteredJobs.map((j, i) => {
+        const tags = [];
+        if (dept(j))    tags.push(`<span class="tag dept">${esc(dept(j))}</span>`);
+        if (getLocation(j)) tags.push(`<span class="tag loc">📍 ${esc(getLocation(j))}</span>`);
+        if (isRemote(j)) tags.push(`<span class="tag remote">Remote</span>`);
+        if (empType(j)) tags.push(`<span class="tag type">${esc(empType(j))}</span>`);
+        if (comp(j))    tags.push(`<span class="tag comp">${esc(comp(j))}</span>`);
+
+        const url  = applyUrl(j);
+        const btn  = url
+          ? `<a class="apply-btn" href="${esc(url)}" target="_blank" rel="noopener">Refer / Apply →</a>`
+          : `<span class="apply-btn apply-btn-disabled">No link</span>`;
+
+        return `
+          <div class="job-card" style="animation-delay:${i * 30}ms">
+            <div class="card-top">
+              <div class="job-title">${esc(title(j))}</div>
+              ${btn}
+            </div>
+            ${tags.length ? `<div class="card-tags">${tags.join('')}</div>` : ''}
+          </div>`;
+      }).join('');
+    }
+
+    function esc(s) {
+      return String(s ?? '')
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    // ── Event listeners ──────────────────────────────────────
+    searchEl.addEventListener('input',  applyFilters);
+    deptEl.addEventListener('change',   applyFilters);
+    locEl.addEventListener('change',    applyFilters);
+
+    // ── Boot ─────────────────────────────────────────────────
+    loadJobs();
+  </script>
+</body>
+</html>
