@@ -23,6 +23,8 @@ if (!API_KEY) {
   process.exit(1);
 }
 
+console.log(`🔑  API key loaded: ${API_KEY.slice(0, 4)}${'*'.repeat(API_KEY.length - 4)}`);
+
 // ── Fields to remove from every posting before writing to disk ──
 const STRIP_FIELDS = [
   'hiringTeam',
