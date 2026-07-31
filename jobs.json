@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T11:03:54.862Z",
+  "fetchedAt": "2026-07-31T11:26:46.411Z",
   "count": 10,
   "jobs": [
     {
@@ -47,7 +47,7 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$158K – $204K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-20T16:32:26.912Z"
     },
     {
@@ -119,7 +119,7 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$126K – $163K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-20T16:32:41.805Z"
     },
     {
@@ -142,7 +142,7 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$150K – $200K • Offers Equity",
+      "compensationTierSummary": "$150K – $199K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-22T14:43:52.579Z"
     },
@@ -166,7 +166,7 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$150K – $200K • Offers Equity",
+      "compensationTierSummary": "$150K – $199K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-22T14:46:46.125Z"
     },
@@ -190,9 +190,9 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-03-20T18:09:48.301Z"
+      "compensationTierSummary": "$150K – $224K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-07-30T14:44:13.686Z"
     },
     {
       "id": "061e0fe9-37a6-4f38-b056-dd0b5973b57f",
@@ -216,7 +216,7 @@
       },
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-07-09T22:07:44.272Z"
+      "updatedAt": "2026-07-30T14:43:50.390Z"
     },
     {
       "id": "354cb782-396a-4f2f-9c97-c5ac8f821581",
