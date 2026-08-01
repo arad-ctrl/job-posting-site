@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T11:26:46.411Z",
-  "count": 10,
+  "fetchedAt": "2026-08-01T10:38:02.211Z",
+  "count": 9,
   "jobs": [
     {
       "id": "0c46ee32-3112-4bc7-91a9-bdd2aa50f7b7",
@@ -217,30 +217,6 @@
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-30T14:43:50.390Z"
-    },
-    {
-      "id": "354cb782-396a-4f2f-9c97-c5ac8f821581",
-      "title": "Website Strategy & Experience Lead",
-      "jobId": "e1ca9fc5-cb4b-4897-b3f9-dee5924b4f4c",
-      "status": "Published",
-      "departmentName": "Marketing",
-      "teamName": "Marketing",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-06-25",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/354cb782-396a-4f2f-9c97-c5ac8f821581",
-      "applyLink": "https://jobs.ashbyhq.com/dave/354cb782-396a-4f2f-9c97-c5ac8f821581",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$158K – $219K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-07-20T20:48:02.718Z"
     }
   ]
 }
