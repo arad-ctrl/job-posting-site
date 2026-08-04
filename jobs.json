@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-03T12:18:31.247Z",
-  "count": 9,
+  "fetchedAt": "2026-08-04T11:20:38.255Z",
+  "count": 10,
   "jobs": [
     {
       "id": "0c46ee32-3112-4bc7-91a9-bdd2aa50f7b7",
@@ -217,6 +217,30 @@
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-30T14:43:50.390Z"
+    },
+    {
+      "id": "68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
+      "title": "Staff AI Acceleration Engineer",
+      "jobId": "207bd1e7-8d86-4ca9-bec2-fec6a1b907c6",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-08-03",
+      "applicationDeadline": "2026-07-24T07:00:00.000Z",
+      "externalLink": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
+      "applyLink": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$208K – $289K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-08-03T20:05:08.497Z"
     }
   ]
 }
