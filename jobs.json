@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T11:20:38.255Z",
-  "count": 10,
+  "fetchedAt": "2026-08-05T11:17:07.757Z",
+  "count": 11,
   "jobs": [
     {
       "id": "0c46ee32-3112-4bc7-91a9-bdd2aa50f7b7",
@@ -193,6 +193,30 @@
       "compensationTierSummary": "$150K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-07-30T14:44:13.686Z"
+    },
+    {
+      "id": "71a5ae91-6ae3-44bc-a4dd-24a429e01413",
+      "title": "Software Engineer II, Fullstack",
+      "jobId": "a88bc56e-4f0b-441d-a16d-8d5599310177",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Software Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-08-04",
+      "applicationDeadline": "2026-08-07T07:00:00.000Z",
+      "externalLink": "https://jobs.ashbyhq.com/dave/71a5ae91-6ae3-44bc-a4dd-24a429e01413",
+      "applyLink": "https://jobs.ashbyhq.com/dave/71a5ae91-6ae3-44bc-a4dd-24a429e01413",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$124K – $183K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-08-04T19:42:13.966Z"
     },
     {
       "id": "061e0fe9-37a6-4f38-b056-dd0b5973b57f",
