@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T09:56:49.366Z",
-  "count": 13,
+  "fetchedAt": "2026-08-12T09:58:16.165Z",
+  "count": 12,
   "jobs": [
     {
       "id": "3d778a46-adc9-4c68-b26f-2c3c10fda85d",
@@ -49,30 +49,6 @@
       "compensationTierSummary": "$201K – $231K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-17T18:56:01.527Z"
-    },
-    {
-      "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "title": "Lead Technical Program Manager",
-      "jobId": "604cf9b3-36f2-49bb-94da-754789eaba0a",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Technical Program Management",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-10",
-      "applicationDeadline": "2026-08-11T07:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "applyLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$174K – $230K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-10T17:25:24.748Z"
     },
     {
       "id": "1a589e4e-cf37-4018-89d3-e20e488dc0dd",
@@ -271,8 +247,8 @@
       "title": "Staff AI Acceleration Engineer",
       "jobId": "207bd1e7-8d86-4ca9-bec2-fec6a1b907c6",
       "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Engineering",
+      "departmentName": "Data",
+      "teamName": "Data Engineering",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
