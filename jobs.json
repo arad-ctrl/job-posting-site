@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T09:36:21.603Z",
-  "count": 8,
+  "fetchedAt": "2026-08-18T09:27:55.469Z",
+  "count": 9,
   "jobs": [
     {
       "id": "babf9d1b-c438-4b50-9feb-6ee2d9087b52",
@@ -193,6 +193,30 @@
       "compensationTierSummary": "$208K – $290K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-12T18:51:56.174Z"
+    },
+    {
+      "id": "849ad14e-85f3-4d7b-9112-01a626694558",
+      "title": "Vendor Operations Manager",
+      "jobId": "c1e4f4e2-33dd-4adc-9cf5-0d9e9c4c08be",
+      "status": "Published",
+      "departmentName": "Member Success",
+      "teamName": "Member Success",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-08-17",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/849ad14e-85f3-4d7b-9112-01a626694558",
+      "applyLink": "https://jobs.ashbyhq.com/dave/849ad14e-85f3-4d7b-9112-01a626694558",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$104K – $130K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-08-17T19:12:53.070Z"
     }
   ]
 }
