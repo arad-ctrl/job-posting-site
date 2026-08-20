@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T09:29:14.667Z",
-  "count": 12,
+  "fetchedAt": "2026-08-20T09:29:46.679Z",
+  "count": 13,
   "jobs": [
     {
       "id": "babf9d1b-c438-4b50-9feb-6ee2d9087b52",
@@ -25,6 +25,30 @@
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-12T21:47:18.816Z"
+    },
+    {
+      "id": "3d778a46-adc9-4c68-b26f-2c3c10fda85d",
+      "title": "Lead Partnerships Manager, Data & Risk",
+      "jobId": "257ec549-72dd-454b-86a8-865731987fc7",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Partnerships",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-08-19",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/3d778a46-adc9-4c68-b26f-2c3c10fda85d",
+      "applyLink": "https://jobs.ashbyhq.com/dave/3d778a46-adc9-4c68-b26f-2c3c10fda85d",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$158K – $204K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-08-19T16:25:13.340Z"
     },
     {
       "id": "fdf98225-ef0b-412f-bfcf-2d60669c04a9",
@@ -99,30 +123,6 @@
       "updatedAt": "2026-08-18T15:51:39.071Z"
     },
     {
-      "id": "75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "title": "Senior Software Engineer, Backend",
-      "jobId": "c41ac6fb-9621-4567-be28-3c8072078ba0",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-06",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "applyLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-06T00:20:49.035Z"
-    },
-    {
       "id": "ab370f2a-2f66-4902-a7ac-2f5fdf29935f",
       "title": "Senior Software Engineer, Backend",
       "jobId": "c41ac6fb-9621-4567-be28-3c8072078ba0",
@@ -145,6 +145,30 @@
       "compensationTierSummary": "$150K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-08-05T22:48:40.024Z"
+    },
+    {
+      "id": "75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
+      "title": "Senior Software Engineer, Backend",
+      "jobId": "c41ac6fb-9621-4567-be28-3c8072078ba0",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Software Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-08-06",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
+      "applyLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $187K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-08-06T00:20:49.035Z"
     },
     {
       "id": "e72434b7-5a4b-4b4f-ad48-f590615c8b89",
