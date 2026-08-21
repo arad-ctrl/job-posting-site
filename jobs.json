@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T09:29:46.679Z",
-  "count": 13,
+  "fetchedAt": "2026-08-21T09:32:17.392Z",
+  "count": 12,
   "jobs": [
     {
       "id": "babf9d1b-c438-4b50-9feb-6ee2d9087b52",
@@ -193,30 +193,6 @@
       "compensationTierSummary": "$150K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-08-18T15:51:26.771Z"
-    },
-    {
-      "id": "061e0fe9-37a6-4f38-b056-dd0b5973b57f",
-      "title": "Sr. IT Systems Engineer, AI & Business Solutions",
-      "jobId": "15afea5e-09f4-4ebf-b5b5-bccd17317efe",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Security & IT",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-06-02",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/061e0fe9-37a6-4f38-b056-dd0b5973b57f",
-      "applyLink": "https://jobs.ashbyhq.com/dave/061e0fe9-37a6-4f38-b056-dd0b5973b57f",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-07-30T14:43:50.390Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
