@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T09:31:01.868Z",
+  "fetchedAt": "2026-08-26T09:36:00.596Z",
   "count": 11,
   "jobs": [
     {
@@ -75,6 +75,30 @@
       "updatedAt": "2026-08-24T20:41:29.690Z"
     },
     {
+      "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
+      "title": "Lead User Acquisition Manager",
+      "jobId": "571d7e5b-228b-44e0-af50-fcc14fed51ff",
+      "status": "Published",
+      "departmentName": "Marketing",
+      "teamName": "User Acquisition",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-08-25",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/d337da2a-ab78-4c67-a831-05ab30ed39b1",
+      "applyLink": "https://jobs.ashbyhq.com/dave/d337da2a-ab78-4c67-a831-05ab30ed39b1",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$205K – $236K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-08-25T22:08:26.862Z"
+    },
+    {
       "id": "1a589e4e-cf37-4018-89d3-e20e488dc0dd",
       "title": "Marketing Partnerships Lead",
       "jobId": "0642d3e8-3f09-44f7-9769-debea485860e",
@@ -97,30 +121,6 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-20T16:31:59.888Z"
-    },
-    {
-      "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "title": "Senior Full Stack Software Engineer",
-      "jobId": "96d091f6-84e5-4825-82ae-88d538641cc5",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-24",
-      "applicationDeadline": "2026-08-31T07:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "applyLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-08-24T15:40:48.175Z"
     },
     {
       "id": "ab370f2a-2f66-4902-a7ac-2f5fdf29935f",
