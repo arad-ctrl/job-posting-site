@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T09:36:00.596Z",
-  "count": 11,
+  "fetchedAt": "2026-08-27T19:24:23.321Z",
+  "count": 9,
   "jobs": [
     {
       "id": "babf9d1b-c438-4b50-9feb-6ee2d9087b52",
@@ -121,54 +121,6 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-07-20T16:31:59.888Z"
-    },
-    {
-      "id": "ab370f2a-2f66-4902-a7ac-2f5fdf29935f",
-      "title": "Senior Software Engineer, Backend",
-      "jobId": "c41ac6fb-9621-4567-be28-3c8072078ba0",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-03-20",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/ab370f2a-2f66-4902-a7ac-2f5fdf29935f",
-      "applyLink": "https://jobs.ashbyhq.com/dave/ab370f2a-2f66-4902-a7ac-2f5fdf29935f",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-08-05T22:48:40.024Z"
-    },
-    {
-      "id": "75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "title": "Senior Software Engineer, Backend",
-      "jobId": "c41ac6fb-9621-4567-be28-3c8072078ba0",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-06",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "applyLink": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-06T00:20:49.035Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
