@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-09-01T13:53:43.182Z",
-  "count": 9,
+  "fetchedAt": "2026-09-02T13:11:46.278Z",
+  "count": 10,
   "jobs": [
+    {
+      "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "title": "Data Engineer II",
+      "jobId": "0e70c167-36af-471d-a8c9-5fca2d7928c7",
+      "status": "Published",
+      "departmentName": "Data",
+      "teamName": "Data Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-01",
+      "applicationDeadline": "2026-09-08T06:00:00.000Z",
+      "externalLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "applyLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$129K – $156K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-09-01T21:03:49.726Z"
+    },
     {
       "id": "3d778a46-adc9-4c68-b26f-2c3c10fda85d",
       "title": "Lead Partnerships Manager, Data & Risk",
@@ -71,7 +95,7 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$205K – $236K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-28T22:26:09.522Z"
     },
     {
@@ -86,7 +110,7 @@
       "workplaceType": "Remote",
       "employmentType": "FullTime",
       "isListed": true,
-      "publishedDate": "2026-07-15",
+      "publishedDate": "2026-09-01",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/1a589e4e-cf37-4018-89d3-e20e488dc0dd",
       "applyLink": "https://jobs.ashbyhq.com/dave/1a589e4e-cf37-4018-89d3-e20e488dc0dd",
@@ -96,7 +120,7 @@
       },
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-07-20T16:31:59.888Z"
+      "updatedAt": "2026-09-01T18:08:33.536Z"
     },
     {
       "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
@@ -118,8 +142,8 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$150K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "compensationTierSummary": "$150K – $187K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-31T17:01:22.591Z"
     },
     {
@@ -142,8 +166,8 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$143K – $163K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "compensationTierSummary": "$126K – $163K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-18T18:35:46.594Z"
     },
     {
@@ -172,7 +196,7 @@
     },
     {
       "id": "df44f23f-b6ee-4e5e-8bb5-c94bdd7bc308",
-      "title": "Staff Product Manager, Credit Underwriting",
+      "title": "Staff Product Manager, ML Credit Strategy",
       "jobId": "2833bf14-508a-4d97-96d9-5448e82b83f8",
       "status": "Published",
       "departmentName": "Product",
@@ -192,7 +216,7 @@
       },
       "compensationTierSummary": "$208K – $290K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-24T20:36:07.076Z"
+      "updatedAt": "2026-09-01T20:16:17.705Z"
     },
     {
       "id": "849ad14e-85f3-4d7b-9112-01a626694558",
