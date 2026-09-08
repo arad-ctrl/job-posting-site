@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-07T14:45:07.404Z",
-  "count": 9,
+  "fetchedAt": "2026-09-08T13:16:42.191Z",
+  "count": 8,
   "jobs": [
-    {
-      "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
-      "title": "Data Engineer II",
-      "jobId": "0e70c167-36af-471d-a8c9-5fca2d7928c7",
-      "status": "Published",
-      "departmentName": "Data",
-      "teamName": "Data Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-01",
-      "applicationDeadline": "2026-09-08T06:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
-      "applyLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$129K – $156K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-01T21:03:49.726Z"
-    },
     {
       "id": "3d778a46-adc9-4c68-b26f-2c3c10fda85d",
       "title": "Lead Partnerships Manager, Data & Risk",
