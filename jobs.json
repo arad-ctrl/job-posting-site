@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-08T13:16:42.191Z",
-  "count": 8,
+  "fetchedAt": "2026-09-09T13:21:09.293Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": "3d778a46-adc9-4c68-b26f-2c3c10fda85d",
-      "title": "Lead Partnerships Manager, Data & Risk",
-      "jobId": "257ec549-72dd-454b-86a8-865731987fc7",
-      "status": "Published",
-      "departmentName": "Product",
-      "teamName": "Partnerships",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-19",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/3d778a46-adc9-4c68-b26f-2c3c10fda85d",
-      "applyLink": "https://jobs.ashbyhq.com/dave/3d778a46-adc9-4c68-b26f-2c3c10fda85d",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$158K – $204K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-19T16:25:13.340Z"
-    },
     {
       "id": "fdf98225-ef0b-412f-bfcf-2d60669c04a9",
       "title": "Lead Product Marketing Manager",
@@ -97,30 +73,6 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-09-01T18:08:33.536Z"
-    },
-    {
-      "id": "e72434b7-5a4b-4b4f-ad48-f590615c8b89",
-      "title": "Senior Software Engineer, Fullstack",
-      "jobId": "5e9221b8-a0a3-4c15-945a-5e7b827d28c2",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-03",
-      "applicationDeadline": "2026-09-28T19:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/e72434b7-5a4b-4b4f-ad48-f590615c8b89",
-      "applyLink": "https://jobs.ashbyhq.com/dave/e72434b7-5a4b-4b4f-ad48-f590615c8b89",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-03T15:23:35.993Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
