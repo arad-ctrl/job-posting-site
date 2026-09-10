@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T13:21:09.293Z",
+  "fetchedAt": "2026-09-10T13:17:55.090Z",
   "count": 6,
   "jobs": [
     {
@@ -8,7 +8,7 @@
       "jobId": "92916703-7e44-4acf-ae3e-3a770e785177",
       "status": "Published",
       "departmentName": "Marketing",
-      "teamName": "Product Marketing",
+      "teamName": "Growth Marketing",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
@@ -27,12 +27,36 @@
       "updatedAt": "2026-08-24T20:41:29.690Z"
     },
     {
+      "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "title": "Lead Technical Program Manager",
+      "jobId": "604cf9b3-36f2-49bb-94da-754789eaba0a",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Technical Program Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-09",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "applyLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$174K – $230K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-09-09T18:08:59.077Z"
+    },
+    {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
       "title": "Lead User Acquisition Manager",
       "jobId": "571d7e5b-228b-44e0-af50-fcc14fed51ff",
       "status": "Published",
       "departmentName": "Marketing",
-      "teamName": "User Acquisition",
+      "teamName": "Growth Marketing",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
@@ -109,7 +133,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-08-03",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
@@ -120,31 +144,7 @@
       },
       "compensationTierSummary": "$208K – $289K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-31T17:01:00.338Z"
-    },
-    {
-      "id": "df44f23f-b6ee-4e5e-8bb5-c94bdd7bc308",
-      "title": "Staff Product Manager, ML Credit Strategy",
-      "jobId": "2833bf14-508a-4d97-96d9-5448e82b83f8",
-      "status": "Published",
-      "departmentName": "Product",
-      "teamName": "Product Management",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-12",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/df44f23f-b6ee-4e5e-8bb5-c94bdd7bc308",
-      "applyLink": "https://jobs.ashbyhq.com/dave/df44f23f-b6ee-4e5e-8bb5-c94bdd7bc308",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$208K – $290K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-01T20:16:17.705Z"
+      "updatedAt": "2026-09-09T18:52:13.309Z"
     }
   ]
 }
