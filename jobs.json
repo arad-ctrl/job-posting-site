@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-16T14:00:15.816Z",
-  "count": 6,
+  "fetchedAt": "2026-09-17T14:04:10.223Z",
+  "count": 5,
   "jobs": [
-    {
-      "id": "fdf98225-ef0b-412f-bfcf-2d60669c04a9",
-      "title": "Lead Product Marketing Manager",
-      "jobId": "92916703-7e44-4acf-ae3e-3a770e785177",
-      "status": "Published",
-      "departmentName": "Marketing",
-      "teamName": "Growth Marketing",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-07-17",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/fdf98225-ef0b-412f-bfcf-2d60669c04a9",
-      "applyLink": "https://jobs.ashbyhq.com/dave/fdf98225-ef0b-412f-bfcf-2d60669c04a9",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$201K – $231K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-24T20:41:29.690Z"
-    },
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
       "title": "Lead Technical Program Manager",
