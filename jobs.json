@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-20T13:25:38.887Z",
-  "count": 7,
+  "fetchedAt": "2026-09-21T15:37:19.482Z",
+  "count": 8,
   "jobs": [
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -97,6 +97,30 @@
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-09-18T17:23:40.200Z"
+    },
+    {
+      "id": "4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
+      "title": "Senior Product Manager, Engagement & Promotions",
+      "jobId": "26a4932d-ce8c-45d7-82ac-bb4f537afa7f",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Product Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-09-21",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
+      "applyLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $200K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-09-21T15:37:12.846Z"
     },
     {
       "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
