@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-21T15:37:19.482Z",
-  "count": 8,
+  "fetchedAt": "2026-09-22T13:52:10.653Z",
+  "count": 9,
   "jobs": [
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -99,6 +99,30 @@
       "updatedAt": "2026-09-18T17:23:40.200Z"
     },
     {
+      "id": "d8ae1698-551c-497c-8dad-0e4e67491aa4",
+      "title": "Senior Machine Learning Scientist",
+      "jobId": "7e34332f-d20b-4392-aa20-f1ea29e5485a",
+      "status": "Published",
+      "departmentName": "Data",
+      "teamName": "Data Science",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-21",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/d8ae1698-551c-497c-8dad-0e4e67491aa4",
+      "applyLink": "https://jobs.ashbyhq.com/dave/d8ae1698-551c-497c-8dad-0e4e67491aa4",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $187K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-09-21T19:44:49.759Z"
+    },
+    {
       "id": "4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
       "title": "Senior Product Manager, Engagement & Promotions",
       "jobId": "26a4932d-ce8c-45d7-82ac-bb4f537afa7f",
@@ -109,7 +133,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-09-21",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
@@ -119,8 +143,8 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$150K – $200K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-09-21T15:37:12.846Z"
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-09-21T19:35:08.990Z"
     },
     {
       "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
