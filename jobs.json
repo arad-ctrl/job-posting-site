@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T13:52:10.653Z",
-  "count": 9,
+  "fetchedAt": "2026-09-23T14:03:06.679Z",
+  "count": 8,
   "jobs": [
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -109,7 +109,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-09-21",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/d8ae1698-551c-497c-8dad-0e4e67491aa4",
@@ -120,7 +120,7 @@
       },
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-21T19:44:49.759Z"
+      "updatedAt": "2026-09-22T18:35:03.401Z"
     },
     {
       "id": "4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
@@ -145,30 +145,6 @@
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-09-21T19:35:08.990Z"
-    },
-    {
-      "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "title": "Senior Software Engineer, Fullstack ",
-      "jobId": "96d091f6-84e5-4825-82ae-88d538641cc5",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-18",
-      "applicationDeadline": "2026-09-23T07:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "applyLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-18T16:56:57.305Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
