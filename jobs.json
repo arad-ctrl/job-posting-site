@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-27T14:31:59.933Z",
-  "count": 8,
+  "fetchedAt": "2026-09-28T17:18:37.876Z",
+  "count": 7,
   "jobs": [
-    {
-      "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "title": "Lead Technical Program Manager",
-      "jobId": "604cf9b3-36f2-49bb-94da-754789eaba0a",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Technical Program Management",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-09-09",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "applyLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$174K – $230K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-15T21:29:19.935Z"
-    },
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
       "title": "Lead User Acquisition Manager",
