@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T17:18:37.876Z",
+  "fetchedAt": "2026-09-29T15:19:27.859Z",
   "count": 7,
   "jobs": [
     {
@@ -123,6 +123,30 @@
       "updatedAt": "2026-09-21T19:35:08.990Z"
     },
     {
+      "id": "5e9f9687-71ca-4f48-8e57-5f164e7001a1",
+      "title": "Senior Software Engineer, Backend",
+      "jobId": "f75414f1-894f-4580-b2b8-2a9f4d89fb9c",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Software Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-29",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/5e9f9687-71ca-4f48-8e57-5f164e7001a1",
+      "applyLink": "https://jobs.ashbyhq.com/dave/5e9f9687-71ca-4f48-8e57-5f164e7001a1",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$160K – $185K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-09-29T05:35:28.006Z"
+    },
+    {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
       "title": "Sr. Member Experience Manager",
       "jobId": "120c9b4c-0fd2-4ac1-b335-eb71b4fbd19a",
@@ -145,30 +169,6 @@
       "compensationTierSummary": "$126K – $163K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-18T18:35:46.594Z"
-    },
-    {
-      "id": "68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
-      "title": "Staff AI Acceleration Engineer",
-      "jobId": "207bd1e7-8d86-4ca9-bec2-fec6a1b907c6",
-      "status": "Published",
-      "departmentName": "Data",
-      "teamName": "Data Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-03",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
-      "applyLink": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$208K – $289K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-09T18:52:13.309Z"
     }
   ]
 }
