@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-09-29T15:19:27.859Z",
-  "count": 7,
+  "fetchedAt": "2026-09-30T15:34:33.660Z",
+  "count": 9,
   "jobs": [
+    {
+      "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "title": "Copy of Sr Director, Assistant General Counsel, Product & Regulatory",
+      "jobId": "c83972d6-84a7-4be5-8bb1-6a4435739a5e",
+      "status": "Published",
+      "departmentName": "Legal",
+      "teamName": "Legal",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-29",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "applyLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$274K – $325K • Offers Equity • Offers Bonus",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-09-29T19:55:13.994Z"
+    },
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
       "title": "Lead User Acquisition Manager",
@@ -123,12 +147,12 @@
       "updatedAt": "2026-09-21T19:35:08.990Z"
     },
     {
-      "id": "5e9f9687-71ca-4f48-8e57-5f164e7001a1",
+      "id": "3cc84980-0c68-442a-b2ac-ee30197639f5",
       "title": "Senior Software Engineer, Backend",
-      "jobId": "f75414f1-894f-4580-b2b8-2a9f4d89fb9c",
+      "jobId": "96ea301b-8014-4481-b6a7-b914cd0224ad",
       "status": "Published",
       "departmentName": "Engineering",
-      "teamName": "Software Engineering",
+      "teamName": "Engineering",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
@@ -136,15 +160,39 @@
       "isListed": true,
       "publishedDate": "2026-09-29",
       "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/5e9f9687-71ca-4f48-8e57-5f164e7001a1",
-      "applyLink": "https://jobs.ashbyhq.com/dave/5e9f9687-71ca-4f48-8e57-5f164e7001a1",
+      "externalLink": "https://jobs.ashbyhq.com/dave/3cc84980-0c68-442a-b2ac-ee30197639f5",
+      "applyLink": "https://jobs.ashbyhq.com/dave/3cc84980-0c68-442a-b2ac-ee30197639f5",
       "locationIds": {
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$160K – $185K • Offers Equity",
+      "compensationTierSummary": "$160K – $180K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-09-29T05:35:28.006Z"
+      "updatedAt": "2026-09-29T15:39:00.631Z"
+    },
+    {
+      "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
+      "title": "Sr. Director of Product, ExtraCash",
+      "jobId": "2e32fd7e-32e8-4b50-accd-8687b4c9ec4a",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Product Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-09-29",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/23b08e56-0cfa-4264-94b8-2bf99bd59193",
+      "applyLink": "https://jobs.ashbyhq.com/dave/23b08e56-0cfa-4264-94b8-2bf99bd59193",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$266K – $355K • Offers Equity • Offers Bonus",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-09-29T18:57:12.241Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
