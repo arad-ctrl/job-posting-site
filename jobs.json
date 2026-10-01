@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-30T15:34:33.660Z",
+  "fetchedAt": "2026-10-01T15:58:32.487Z",
   "count": 9,
   "jobs": [
-    {
-      "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "title": "Copy of Sr Director, Assistant General Counsel, Product & Regulatory",
-      "jobId": "c83972d6-84a7-4be5-8bb1-6a4435739a5e",
-      "status": "Published",
-      "departmentName": "Legal",
-      "teamName": "Legal",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-29",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "applyLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$274K – $325K • Offers Equity • Offers Bonus",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-09-29T19:55:13.994Z"
-    },
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
       "title": "Lead User Acquisition Manager",
@@ -169,6 +145,30 @@
       "compensationTierSummary": "$160K – $180K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-09-29T15:39:00.631Z"
+    },
+    {
+      "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "title": "Sr Director, Assistant General Counsel, Product & Regulatory",
+      "jobId": "c83972d6-84a7-4be5-8bb1-6a4435739a5e",
+      "status": "Published",
+      "departmentName": "Legal",
+      "teamName": "Legal",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-09-29",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "applyLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$274K – $325K • Offers Equity • Offers Bonus",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-09-30T16:25:51.622Z"
     },
     {
       "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
