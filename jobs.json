@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-05T17:49:08.610Z",
-  "count": 8,
+  "fetchedAt": "2026-10-06T15:39:48.410Z",
+  "count": 9,
   "jobs": [
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
@@ -37,7 +37,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-09-01",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/1a589e4e-cf37-4018-89d3-e20e488dc0dd",
@@ -48,7 +48,7 @@
       },
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-01T18:08:33.536Z"
+      "updatedAt": "2026-10-05T20:59:43.572Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
@@ -121,6 +121,30 @@
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-09-21T19:35:08.990Z"
+    },
+    {
+      "id": "53589f14-86f2-4c8e-b064-0b2aa5854fec",
+      "title": "Senior Product Manager, Financial Data Intelligence",
+      "jobId": "f17c33a5-0120-42d7-ac75-a7e78b0d0c9c",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Product Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-05",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/53589f14-86f2-4c8e-b064-0b2aa5854fec",
+      "applyLink": "https://jobs.ashbyhq.com/dave/53589f14-86f2-4c8e-b064-0b2aa5854fec",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $200K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-05T19:59:45.427Z"
     },
     {
       "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
