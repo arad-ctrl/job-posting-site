@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-10-06T15:39:48.410Z",
-  "count": 9,
+  "fetchedAt": "2026-10-07T16:03:32.737Z",
+  "count": 13,
   "jobs": [
+    {
+      "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "title": "Data Engineer II",
+      "jobId": "0e70c167-36af-471d-a8c9-5fca2d7928c7",
+      "status": "Published",
+      "departmentName": "Data",
+      "teamName": "Data Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-06",
+      "applicationDeadline": "2026-09-08T06:00:00.000Z",
+      "externalLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "applyLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$129K – $156K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-06T17:38:56.505Z"
+    },
+    {
+      "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
+      "title": "Lead Data Engineer",
+      "jobId": "49d5625b-ce26-4735-95a5-61ce9e14482f",
+      "status": "Published",
+      "departmentName": "Data",
+      "teamName": "Data Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-06",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
+      "applyLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$174K – $224K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-10-06T18:01:59.196Z"
+    },
+    {
+      "id": "7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "title": "Lead GRC & Security Governance",
+      "jobId": "a20ed504-af5c-47ed-b0ac-628c278d7a55",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Security & IT",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-06",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "applyLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$174K – $224K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-10-06T18:38:53.169Z"
+    },
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
       "title": "Lead User Acquisition Manager",
@@ -49,6 +121,30 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-05T20:59:43.572Z"
+    },
+    {
+      "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
+      "title": "Marketing Project Manager",
+      "jobId": "0d602779-c50b-41de-89f2-3a573f8488f1",
+      "status": "Published",
+      "departmentName": "Marketing",
+      "teamName": "Marketing",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-06",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/b33e3972-d699-446c-9a47-61c1854c35cc",
+      "applyLink": "https://jobs.ashbyhq.com/dave/b33e3972-d699-446c-9a47-61c1854c35cc",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$104K – $130K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-06T21:03:28.581Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
