@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-07T16:03:32.737Z",
-  "count": 13,
+  "fetchedAt": "2026-10-08T16:06:04.105Z",
+  "count": 14,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
       "title": "Data Engineer II",
       "jobId": "0e70c167-36af-471d-a8c9-5fca2d7928c7",
       "status": "Published",
-      "departmentName": "Data",
+      "departmentName": "Data & AI",
       "teamName": "Data Engineering",
       "locationName": "United States",
       "locationExternalName": null,
@@ -31,13 +31,13 @@
       "title": "Lead Data Engineer",
       "jobId": "49d5625b-ce26-4735-95a5-61ce9e14482f",
       "status": "Published",
-      "departmentName": "Data",
+      "departmentName": "Data & AI",
       "teamName": "Data Engineering",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-10-06",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
@@ -48,7 +48,7 @@
       },
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-10-06T18:01:59.196Z"
+      "updatedAt": "2026-10-07T20:39:50.401Z"
     },
     {
       "id": "7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
@@ -73,6 +73,30 @@
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-10-06T18:38:53.169Z"
+    },
+    {
+      "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "title": "Lead Technical Program Manager",
+      "jobId": "604cf9b3-36f2-49bb-94da-754789eaba0a",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Technical Program Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-10-07",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "applyLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$174K – $230K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-07T20:13:18.190Z"
     },
     {
       "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
@@ -133,7 +157,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-10-06",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/b33e3972-d699-446c-9a47-61c1854c35cc",
@@ -144,14 +168,14 @@
       },
       "compensationTierSummary": "$104K – $130K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-06T21:03:28.581Z"
+      "updatedAt": "2026-10-08T15:33:21.294Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
       "title": "Senior Data Analyst",
       "jobId": "b94a95b0-3850-47be-b34f-bec294a1265f",
       "status": "Published",
-      "departmentName": "Data",
+      "departmentName": "Data & AI",
       "teamName": "Data Analytics",
       "locationName": "United States",
       "locationExternalName": null,
@@ -175,8 +199,8 @@
       "title": "Senior Machine Learning Scientist",
       "jobId": "7e34332f-d20b-4392-aa20-f1ea29e5485a",
       "status": "Published",
-      "departmentName": "Data",
-      "teamName": "Data Science",
+      "departmentName": "Data & AI",
+      "teamName": "Machine Learning Science",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
