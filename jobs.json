@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-08T16:06:04.105Z",
-  "count": 14,
+  "fetchedAt": "2026-10-09T15:47:47.879Z",
+  "count": 15,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
@@ -61,7 +61,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-10-06",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
@@ -72,7 +72,7 @@
       },
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-10-06T18:38:53.169Z"
+      "updatedAt": "2026-10-08T19:33:19.777Z"
     },
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -123,30 +123,6 @@
       "updatedAt": "2026-08-28T22:26:09.522Z"
     },
     {
-      "id": "1a589e4e-cf37-4018-89d3-e20e488dc0dd",
-      "title": "Marketing Partnerships Lead",
-      "jobId": "0642d3e8-3f09-44f7-9769-debea485860e",
-      "status": "Published",
-      "departmentName": "Marketing",
-      "teamName": "Marketing",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-09-01",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/1a589e4e-cf37-4018-89d3-e20e488dc0dd",
-      "applyLink": "https://jobs.ashbyhq.com/dave/1a589e4e-cf37-4018-89d3-e20e488dc0dd",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$158K – $204K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-05T20:59:43.572Z"
-    },
-    {
       "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
       "title": "Marketing Project Manager",
       "jobId": "0d602779-c50b-41de-89f2-3a573f8488f1",
@@ -169,6 +145,30 @@
       "compensationTierSummary": "$104K – $130K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-08T15:33:21.294Z"
+    },
+    {
+      "id": "32f7b706-cd4f-447e-95f5-ab9a2098d083",
+      "title": "Organic Growth & Discovery Lead (SEO/AEO)",
+      "jobId": "0f530037-3672-450c-9114-f0975e89e85d",
+      "status": "Published",
+      "departmentName": "Marketing",
+      "teamName": "Growth Marketing",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-10-08",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/32f7b706-cd4f-447e-95f5-ab9a2098d083",
+      "applyLink": "https://jobs.ashbyhq.com/dave/32f7b706-cd4f-447e-95f5-ab9a2098d083",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$158K – $204K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-08T16:58:28.813Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
@@ -265,6 +265,30 @@
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-05T19:59:45.427Z"
+    },
+    {
+      "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
+      "title": "Senior Software Engineer, Fullstack ",
+      "jobId": "96d091f6-84e5-4825-82ae-88d538641cc5",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Software Engineering",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-10-08",
+      "applicationDeadline": "2026-10-14T07:00:00.000Z",
+      "externalLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
+      "applyLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $187K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-08T18:58:28.298Z"
     },
     {
       "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
