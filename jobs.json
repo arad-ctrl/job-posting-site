@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T15:47:47.879Z",
+  "fetchedAt": "2026-10-10T15:00:49.059Z",
   "count": 15,
   "jobs": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
-      "title": "Marketing Project Manager",
+      "title": "Marketing Operations Project Manager",
       "jobId": "0d602779-c50b-41de-89f2-3a573f8488f1",
       "status": "Published",
       "departmentName": "Marketing",
@@ -144,7 +144,7 @@
       },
       "compensationTierSummary": "$104K – $130K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-08T15:33:21.294Z"
+      "updatedAt": "2026-10-09T20:38:32.437Z"
     },
     {
       "id": "32f7b706-cd4f-447e-95f5-ab9a2098d083",
@@ -229,7 +229,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-09-21",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
@@ -240,7 +240,7 @@
       },
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-21T19:35:08.990Z"
+      "updatedAt": "2026-10-09T20:28:36.671Z"
     },
     {
       "id": "53589f14-86f2-4c8e-b064-0b2aa5854fec",
