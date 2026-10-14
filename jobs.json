@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-13T16:41:46.461Z",
-  "count": 15,
+  "fetchedAt": "2026-10-14T14:18:13.339Z",
+  "count": 14,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
@@ -253,7 +253,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-10-05",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/53589f14-86f2-4c8e-b064-0b2aa5854fec",
@@ -264,31 +264,7 @@
       },
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-05T19:59:45.427Z"
-    },
-    {
-      "id": "46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "title": "Senior Software Engineer, Fullstack ",
-      "jobId": "96d091f6-84e5-4825-82ae-88d538641cc5",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Software Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-10-08",
-      "applicationDeadline": "2026-10-14T07:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "applyLink": "https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-08T18:58:28.298Z"
+      "updatedAt": "2026-10-13T20:44:20.649Z"
     },
     {
       "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
