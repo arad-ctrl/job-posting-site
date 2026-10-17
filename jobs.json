@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-16T13:43:10.388Z",
-  "count": 15,
+  "fetchedAt": "2026-10-17T12:39:39.920Z",
+  "count": 12,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
@@ -25,54 +25,6 @@
       "compensationTierSummary": "$129K – $156K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-06T17:38:56.505Z"
-    },
-    {
-      "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
-      "title": "Lead Data Engineer",
-      "jobId": "49d5625b-ce26-4735-95a5-61ce9e14482f",
-      "status": "Published",
-      "departmentName": "Data & AI",
-      "teamName": "Data Engineering",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-10-06",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
-      "applyLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$174K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-10-12T19:13:53.961Z"
-    },
-    {
-      "id": "7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "title": "Lead GRC & Security Governance",
-      "jobId": "a20ed504-af5c-47ed-b0ac-628c278d7a55",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Security & IT",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-10-06",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "applyLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$174K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-10-08T19:33:19.777Z"
     },
     {
       "id": "c85a73ba-ed1c-4def-9aed-161ba7779c6b",
@@ -289,30 +241,6 @@
       "compensationTierSummary": "$150K – $200K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-13T20:44:20.649Z"
-    },
-    {
-      "id": "31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "title": "Sr Director, Assistant General Counsel, Product & Regulatory",
-      "jobId": "c83972d6-84a7-4be5-8bb1-6a4435739a5e",
-      "status": "Published",
-      "departmentName": "Legal",
-      "teamName": "Legal",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-29",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "applyLink": "https://jobs.ashbyhq.com/dave/31532347-918a-4635-a9be-3aaf5a1e9ada",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$274K – $325K • Offers Equity • Offers Bonus",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-09-30T16:25:51.622Z"
     },
     {
       "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
