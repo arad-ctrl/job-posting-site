@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T14:03:58.188Z",
-  "count": 12,
+  "fetchedAt": "2026-10-21T14:19:00.396Z",
+  "count": 11,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
@@ -37,7 +37,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-10-14",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/c85a73ba-ed1c-4def-9aed-161ba7779c6b",
@@ -48,7 +48,7 @@
       },
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-14T19:30:21.025Z"
+      "updatedAt": "2026-10-20T21:35:57.723Z"
     },
     {
       "id": "40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -145,30 +145,6 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-08T16:58:28.813Z"
-    },
-    {
-      "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
-      "title": "Senior Data Analyst",
-      "jobId": "b94a95b0-3850-47be-b34f-bec294a1265f",
-      "status": "Published",
-      "departmentName": "Data & AI",
-      "teamName": "Data Analytics",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-09-18",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
-      "applyLink": "https://jobs.ashbyhq.com/dave/2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $187K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-10-19T23:53:30.506Z"
     },
     {
       "id": "d8ae1698-551c-497c-8dad-0e4e67491aa4",
