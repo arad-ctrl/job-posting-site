@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-25T13:32:14.939Z",
-  "count": 11,
+  "fetchedAt": "2026-10-26T15:48:36.924Z",
+  "count": 10,
   "jobs": [
     {
       "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
@@ -73,30 +73,6 @@
       "compensationTierSummary": "$174K – $230K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-07T20:13:18.190Z"
-    },
-    {
-      "id": "d337da2a-ab78-4c67-a831-05ab30ed39b1",
-      "title": "Lead User Acquisition Manager",
-      "jobId": "571d7e5b-228b-44e0-af50-fcc14fed51ff",
-      "status": "Published",
-      "departmentName": "Marketing",
-      "teamName": "Growth Marketing",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-25",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/d337da2a-ab78-4c67-a831-05ab30ed39b1",
-      "applyLink": "https://jobs.ashbyhq.com/dave/d337da2a-ab78-4c67-a831-05ab30ed39b1",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$205K – $236K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-28T22:26:09.522Z"
     },
     {
       "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
