@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-26T15:48:36.924Z",
+  "fetchedAt": "2026-10-27T15:05:40.859Z",
   "count": 10,
   "jobs": [
     {
-      "id": "6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
-      "title": "Data Engineer II",
-      "jobId": "0e70c167-36af-471d-a8c9-5fca2d7928c7",
+      "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
+      "title": "Lead Data Engineer",
+      "jobId": "49d5625b-ce26-4735-95a5-61ce9e14482f",
       "status": "Published",
       "departmentName": "Data & AI",
       "teamName": "Data Engineering",
@@ -14,17 +14,17 @@
       "workplaceType": "Remote",
       "employmentType": "FullTime",
       "isListed": false,
-      "publishedDate": "2026-10-06",
-      "applicationDeadline": "2026-09-08T06:00:00.000Z",
-      "externalLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
-      "applyLink": "https://jobs.ashbyhq.com/dave/6f77d7ad-9fb7-4330-80e2-e9062aa1b36e",
+      "publishedDate": "2026-10-26",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
+      "applyLink": "https://jobs.ashbyhq.com/dave/4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
       "locationIds": {
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$129K – $156K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-06T17:38:56.505Z"
+      "compensationTierSummary": "$174K – $224K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-10-26T19:55:17.025Z"
     },
     {
       "id": "c85a73ba-ed1c-4def-9aed-161ba7779c6b",
@@ -61,7 +61,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-10-07",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/40aec012-835e-4ce8-bbe1-30a8efadd457",
@@ -72,7 +72,7 @@
       },
       "compensationTierSummary": "$174K – $230K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-07T20:13:18.190Z"
+      "updatedAt": "2026-10-26T22:11:29.647Z"
     },
     {
       "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
