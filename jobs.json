@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-10-27T15:05:40.859Z",
-  "count": 10,
+  "fetchedAt": "2026-10-28T15:42:12.404Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": "d7f563b8-f02e-4081-9676-8aff0c10367b",
+      "title": "Director, Lifecycle Marketing",
+      "jobId": "2b2bd256-4816-4725-bc1e-da08c32ae885",
+      "status": "Published",
+      "departmentName": "Marketing",
+      "teamName": "Growth Marketing",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-10-28",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/d7f563b8-f02e-4081-9676-8aff0c10367b",
+      "applyLink": "https://jobs.ashbyhq.com/dave/d7f563b8-f02e-4081-9676-8aff0c10367b",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$198K – $255K • Offers Equity • Offers Bonus",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-28T15:35:20.941Z"
+    },
     {
       "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
       "title": "Lead Data Engineer",
@@ -147,30 +171,6 @@
       "updatedAt": "2026-09-22T18:35:03.401Z"
     },
     {
-      "id": "4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
-      "title": "Senior Product Manager, Engagement & Promotions",
-      "jobId": "26a4932d-ce8c-45d7-82ac-bb4f537afa7f",
-      "status": "Published",
-      "departmentName": "Product",
-      "teamName": "Product Management",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": false,
-      "publishedDate": "2026-09-21",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
-      "applyLink": "https://jobs.ashbyhq.com/dave/4176fdaa-730e-4e1d-a2ea-e7cff1ebdf44",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $200K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-09T20:28:36.671Z"
-    },
-    {
       "id": "53589f14-86f2-4c8e-b064-0b2aa5854fec",
       "title": "Senior Product Manager, Financial Data Intelligence",
       "jobId": "f17c33a5-0120-42d7-ac75-a7e78b0d0c9c",
@@ -241,6 +241,30 @@
       "compensationTierSummary": "$126K – $163K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-08-18T18:35:46.594Z"
+    },
+    {
+      "id": "b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "title": "Staff Machine Learning Scientist",
+      "jobId": "4662d328-450b-448a-8921-2ad1363b00ba",
+      "status": "Published",
+      "departmentName": "Data & AI",
+      "teamName": "Data Analytics",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-10-27",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "applyLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$208K – $269K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-10-27T15:36:55.182Z"
     }
   ]
 }
