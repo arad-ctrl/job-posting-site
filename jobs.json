@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T15:42:12.404Z",
-  "count": 11,
+  "fetchedAt": "2026-10-29T15:49:03.372Z",
+  "count": 12,
   "jobs": [
     {
       "id": "d7f563b8-f02e-4081-9676-8aff0c10367b",
@@ -24,7 +24,7 @@
       },
       "compensationTierSummary": "$198K – $255K • Offers Equity • Offers Bonus",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-28T15:35:20.941Z"
+      "updatedAt": "2026-10-29T14:51:03.312Z"
     },
     {
       "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
@@ -97,6 +97,30 @@
       "compensationTierSummary": "$174K – $230K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-26T22:11:29.647Z"
+    },
+    {
+      "id": "0ad97a2f-cb6a-45ef-8b10-32e6f81384f1",
+      "title": "Lifecycle & CRM Operations Specialist",
+      "jobId": "1500842d-4ea3-43ae-ae09-ace86afc0ca6",
+      "status": "Published",
+      "departmentName": "Marketing",
+      "teamName": "Growth Marketing",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-10-29",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/0ad97a2f-cb6a-45ef-8b10-32e6f81384f1",
+      "applyLink": "https://jobs.ashbyhq.com/dave/0ad97a2f-cb6a-45ef-8b10-32e6f81384f1",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$83K – $104K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-10-29T15:19:19.736Z"
     },
     {
       "id": "b33e3972-d699-446c-9a47-61c1854c35cc",
