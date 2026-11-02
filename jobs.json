@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-01T15:42:54.084Z",
-  "count": 13,
+  "fetchedAt": "2026-11-02T19:07:15.847Z",
+  "count": 14,
   "jobs": [
     {
       "id": "d7f563b8-f02e-4081-9676-8aff0c10367b",
@@ -169,6 +169,30 @@
       "compensationTierSummary": "$158K – $204K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-08T16:58:28.813Z"
+    },
+    {
+      "id": "500730ef-6354-457d-969a-0e2375129edf",
+      "title": "Product and Regulatory Legal Director",
+      "jobId": "35e19f31-fb3e-4689-8598-b7c4e975121f",
+      "status": "Published",
+      "departmentName": "Legal",
+      "teamName": "Legal",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-02",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/500730ef-6354-457d-969a-0e2375129edf",
+      "applyLink": "https://jobs.ashbyhq.com/dave/500730ef-6354-457d-969a-0e2375129edf",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$245K – $282K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-11-02T18:43:08.828Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
