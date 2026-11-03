@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-11-02T19:07:15.847Z",
-  "count": 14,
+  "fetchedAt": "2026-11-03T16:48:01.625Z",
+  "count": 15,
   "jobs": [
+    {
+      "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
+      "title": "Commercial Legal Director",
+      "jobId": "ce95e87c-5d7a-4021-916f-9352f67b56b4",
+      "status": "Published",
+      "departmentName": "Legal",
+      "teamName": "Legal",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-02",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
+      "applyLink": "https://jobs.ashbyhq.com/dave/cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$254K – $282K �� Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-11-02T23:19:38.337Z"
+    },
     {
       "id": "d7f563b8-f02e-4081-9676-8aff0c10367b",
       "title": "Director, Lifecycle Marketing",
