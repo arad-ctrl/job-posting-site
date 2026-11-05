@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T16:48:20.609Z",
-  "count": 15,
+  "fetchedAt": "2026-11-05T17:03:34.247Z",
+  "count": 16,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -49,6 +49,30 @@
       "compensationTierSummary": "$198K – $255K • Offers Equity • Offers Bonus",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-29T14:51:03.312Z"
+    },
+    {
+      "id": "f6331ba3-e7f6-4586-b3bd-def479580bec",
+      "title": "Director of Product, Financial Platform",
+      "jobId": "df268fa1-ed48-46e0-836b-ab625de86efb",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Product Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-11-04",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/f6331ba3-e7f6-4586-b3bd-def479580bec",
+      "applyLink": "https://jobs.ashbyhq.com/dave/f6331ba3-e7f6-4586-b3bd-def479580bec",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$239K – $309K • Offers Equity • Offers Bonus",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-04T19:32:18.458Z"
     },
     {
       "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
