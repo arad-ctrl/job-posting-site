@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T15:45:24.230Z",
+  "fetchedAt": "2026-11-09T19:27:47.785Z",
   "count": 16,
   "jobs": [
     {
@@ -37,7 +37,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-10-28",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/d7f563b8-f02e-4081-9676-8aff0c10367b",
@@ -48,7 +48,7 @@
       },
       "compensationTierSummary": "$198K – $255K • Offers Equity • Offers Bonus",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-29T14:51:03.312Z"
+      "updatedAt": "2026-11-09T18:18:59.473Z"
     },
     {
       "id": "f6331ba3-e7f6-4586-b3bd-def479580bec",
