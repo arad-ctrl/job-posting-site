@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-10T16:45:23.374Z",
-  "count": 16,
+  "fetchedAt": "2026-11-11T16:51:34.495Z",
+  "count": 17,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -104,7 +104,7 @@
       "jobId": "f038038e-0cc6-40f5-b702-145401389f30",
       "status": "Published",
       "departmentName": "Data & AI",
-      "teamName": "Machine Learning Platform Engineering",
+      "teamName": "Machine Learning Science",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
@@ -368,7 +368,7 @@
       "jobId": "4662d328-450b-448a-8921-2ad1363b00ba",
       "status": "Published",
       "departmentName": "Data & AI",
-      "teamName": "Data Analytics",
+      "teamName": "Machine Learning Science",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
@@ -385,6 +385,30 @@
       "compensationTierSummary": "$208K – $269K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-10-27T15:36:55.182Z"
+    },
+    {
+      "id": "264e5d99-07bd-4966-80c9-49166b2540ae",
+      "title": "Staff Product Manager, Loan Servicing & Repayment",
+      "jobId": "c6d7e5a3-fc2a-46c7-96a7-6291600dc52e",
+      "status": "Published",
+      "departmentName": "Product",
+      "teamName": "Product Management",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-10",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/264e5d99-07bd-4966-80c9-49166b2540ae",
+      "applyLink": "https://jobs.ashbyhq.com/dave/264e5d99-07bd-4966-80c9-49166b2540ae",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$208K – $290K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-10T22:23:02.255Z"
     }
   ]
 }
