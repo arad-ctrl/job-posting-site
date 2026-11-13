@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-12T17:19:14.392Z",
-  "count": 17,
+  "fetchedAt": "2026-11-13T16:55:05.228Z",
+  "count": 19,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -23,8 +23,8 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$254K – $282K �� Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-11-02T23:19:38.337Z"
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-12T22:21:52.202Z"
     },
     {
       "id": "d7f563b8-f02e-4081-9676-8aff0c10367b",
@@ -239,8 +239,32 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$245K – $282K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-11-02T18:43:08.828Z"
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-12T22:22:08.544Z"
+    },
+    {
+      "id": "7db4771a-205d-4e41-b715-f82c3d442018",
+      "title": "Recruiter",
+      "jobId": "aab74927-f91d-486b-9bcd-9c4fca60b7e1",
+      "status": "Published",
+      "departmentName": "People",
+      "teamName": "Talent Acquisition",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-03",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/7db4771a-205d-4e41-b715-f82c3d442018",
+      "applyLink": "https://jobs.ashbyhq.com/dave/7db4771a-205d-4e41-b715-f82c3d442018",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$120K – $140K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-12T22:09:28.145Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
@@ -315,6 +339,30 @@
       "updatedAt": "2026-11-06T00:50:04.426Z"
     },
     {
+      "id": "45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
+      "title": "Senior Recruiter",
+      "jobId": "2f72990a-a86c-4f05-aee8-e1ea705b7ddb",
+      "status": "Published",
+      "departmentName": "People",
+      "teamName": "Talent Acquisition",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-03",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
+      "applyLink": "https://jobs.ashbyhq.com/dave/45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$150K – $180K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-12T22:08:49.077Z"
+    },
+    {
       "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
       "title": "Sr. Director of Product, ExtraCash",
       "jobId": "2e32fd7e-32e8-4b50-accd-8687b4c9ec4a",
@@ -383,7 +431,7 @@
         "secondaryLocationIds": []
       },
       "compensationTierSummary": "$208K – $269K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
+      "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-10-27T15:36:55.182Z"
     },
     {
