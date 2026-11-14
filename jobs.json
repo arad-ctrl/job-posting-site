@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-13T16:55:05.228Z",
-  "count": 19,
+  "fetchedAt": "2026-11-14T15:30:52.656Z",
+  "count": 20,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -22,7 +22,7 @@
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$254K – $282K �� Offers Equity",
+      "compensationTierSummary": "$254K – $282K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-11-12T22:21:52.202Z"
     },
@@ -97,6 +97,30 @@
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-10-26T19:55:17.025Z"
+    },
+    {
+      "id": "7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "title": "Lead GRC & Security Governance",
+      "jobId": "a20ed504-af5c-47ed-b0ac-628c278d7a55",
+      "status": "Published",
+      "departmentName": "Engineering",
+      "teamName": "Security & IT",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-13",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "applyLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$174K – $224K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-11-13T21:05:59.082Z"
     },
     {
       "id": "c85a73ba-ed1c-4def-9aed-161ba7779c6b",
