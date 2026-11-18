@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T18:05:48.896Z",
+  "fetchedAt": "2026-11-18T17:45:22.690Z",
   "count": 19,
   "jobs": [
     {
@@ -61,7 +61,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-11-04",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/f6331ba3-e7f6-4586-b3bd-def479580bec",
@@ -72,7 +72,7 @@
       },
       "compensationTierSummary": "$239K – $309K • Offers Equity • Offers Bonus",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-11-04T19:32:18.458Z"
+      "updatedAt": "2026-11-18T15:32:39.542Z"
     },
     {
       "id": "4e424e0d-1bed-4d9c-8c22-f9d823afab6d",
@@ -349,7 +349,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-11-03",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
@@ -360,7 +360,7 @@
       },
       "compensationTierSummary": "$150K – $180K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-11-16T23:01:57.677Z"
+      "updatedAt": "2026-11-17T22:28:12.535Z"
     },
     {
       "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
