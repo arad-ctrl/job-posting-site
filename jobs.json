@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T17:45:22.690Z",
-  "count": 19,
+  "fetchedAt": "2026-11-19T17:56:34.075Z",
+  "count": 17,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -97,30 +97,6 @@
       "compensationTierSummary": "$174K – $224K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
       "updatedAt": "2026-10-26T19:55:17.025Z"
-    },
-    {
-      "id": "7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "title": "Lead GRC & Security Governance",
-      "jobId": "a20ed504-af5c-47ed-b0ac-628c278d7a55",
-      "status": "Published",
-      "departmentName": "Engineering",
-      "teamName": "Security & IT",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-11-13",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "applyLink": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$174K – $224K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-11-13T21:05:59.082Z"
     },
     {
       "id": "c85a73ba-ed1c-4def-9aed-161ba7779c6b",
@@ -253,8 +229,8 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-11-03",
+      "isListed": false,
+      "publishedDate": "2026-11-19",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/7db4771a-205d-4e41-b715-f82c3d442018",
       "applyLink": "https://jobs.ashbyhq.com/dave/7db4771a-205d-4e41-b715-f82c3d442018",
@@ -264,7 +240,7 @@
       },
       "compensationTierSummary": "$120K – $140K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-11-12T22:09:28.145Z"
+      "updatedAt": "2026-11-19T16:56:01.749Z"
     },
     {
       "id": "2515bd11-7137-4cc1-9bcc-e10e5e69b0d6",
@@ -339,30 +315,6 @@
       "updatedAt": "2026-11-06T00:50:04.426Z"
     },
     {
-      "id": "45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
-      "title": "Senior Recruiter",
-      "jobId": "2f72990a-a86c-4f05-aee8-e1ea705b7ddb",
-      "status": "Published",
-      "departmentName": "People",
-      "teamName": "Talent Acquisition",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-11-03",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
-      "applyLink": "https://jobs.ashbyhq.com/dave/45bed146-7a78-49c1-a3c4-ce52ec66aeb2",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$150K – $180K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-11-17T22:28:12.535Z"
-    },
-    {
       "id": "23b08e56-0cfa-4264-94b8-2bf99bd59193",
       "title": "Sr. Director of Product, ExtraCash",
       "jobId": "2e32fd7e-32e8-4b50-accd-8687b4c9ec4a",
@@ -373,7 +325,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": false,
+      "isListed": true,
       "publishedDate": "2026-09-29",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/23b08e56-0cfa-4264-94b8-2bf99bd59193",
@@ -384,7 +336,7 @@
       },
       "compensationTierSummary": "$266K – $355K • Offers Equity • Offers Bonus",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-09-29T18:57:12.241Z"
+      "updatedAt": "2026-11-18T18:02:23.601Z"
     },
     {
       "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
@@ -411,28 +363,28 @@
       "updatedAt": "2026-08-18T18:35:46.594Z"
     },
     {
-      "id": "b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
-      "title": "Staff Machine Learning Scientist",
-      "jobId": "4662d328-450b-448a-8921-2ad1363b00ba",
+      "id": "23c59358-e8c2-423c-a90c-ada119650dcc",
+      "title": "Staff AI Acceleration Engineer",
+      "jobId": "c21e27e7-c4fd-4b71-9d36-6eb4cf744eee",
       "status": "Published",
       "departmentName": "Data & AI",
-      "teamName": "Machine Learning Science",
+      "teamName": "Data Platform & AI Acceleration",
       "locationName": "United States",
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
       "isListed": true,
-      "publishedDate": "2026-10-27",
+      "publishedDate": "2026-11-19",
       "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
-      "applyLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "externalLink": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
+      "applyLink": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
       "locationIds": {
         "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
         "secondaryLocationIds": []
       },
-      "compensationTierSummary": "$208K – $269K • Offers Equity",
+      "compensationTierSummary": "$208K – $289K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-27T15:36:55.182Z"
+      "updatedAt": "2026-11-19T00:04:54.643Z"
     },
     {
       "id": "264e5d99-07bd-4966-80c9-49166b2540ae",
