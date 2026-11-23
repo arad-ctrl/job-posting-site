@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-22T16:52:08.599Z",
-  "count": 17,
+  "fetchedAt": "2026-11-23T20:50:30.954Z",
+  "count": 18,
   "jobs": [
     {
       "id": "cac6e779-ce6a-4714-ad23-4ec0f10ab7cc",
@@ -289,6 +289,30 @@
       "compensationTierSummary": "$150K – $187K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-09-22T18:35:03.401Z"
+    },
+    {
+      "id": "ed4f702f-db09-4c03-a379-59cdc765a198",
+      "title": "Senior Manager, Data Engineering",
+      "jobId": "0d60a795-5386-4763-b5d8-6d4ee5b60187",
+      "status": "Published",
+      "departmentName": "Data & AI",
+      "teamName": "Data & AI",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "publishedDate": "2026-11-23",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/ed4f702f-db09-4c03-a379-59cdc765a198",
+      "applyLink": "https://jobs.ashbyhq.com/dave/ed4f702f-db09-4c03-a379-59cdc765a198",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$208K – $269K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": false,
+      "updatedAt": "2026-11-23T17:46:40.918Z"
     },
     {
       "id": "53589f14-86f2-4c8e-b064-0b2aa5854fec",
