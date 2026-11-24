@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23T20:50:30.954Z",
+  "fetchedAt": "2026-11-24T19:54:28.087Z",
   "count": 18,
   "jobs": [
     {
@@ -157,7 +157,7 @@
       "locationExternalName": null,
       "workplaceType": "Remote",
       "employmentType": "FullTime",
-      "isListed": true,
+      "isListed": false,
       "publishedDate": "2026-10-29",
       "applicationDeadline": null,
       "externalLink": "https://jobs.ashbyhq.com/dave/0ad97a2f-cb6a-45ef-8b10-32e6f81384f1",
@@ -168,7 +168,7 @@
       },
       "compensationTierSummary": "$83K – $104K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-10-30T14:01:36.495Z"
+      "updatedAt": "2026-11-24T19:43:33.401Z"
     },
     {
       "id": "32f7b706-cd4f-447e-95f5-ab9a2098d083",
@@ -312,7 +312,7 @@
       },
       "compensationTierSummary": "$208K – $269K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": false,
-      "updatedAt": "2026-11-23T17:46:40.918Z"
+      "updatedAt": "2026-11-24T16:11:52.796Z"
     },
     {
       "id": "53589f14-86f2-4c8e-b064-0b2aa5854fec",
@@ -363,30 +363,6 @@
       "updatedAt": "2026-11-18T18:02:23.601Z"
     },
     {
-      "id": "979bfdbc-9f42-47a1-9964-fafb7a61916b",
-      "title": "Sr. Member Experience Manager",
-      "jobId": "120c9b4c-0fd2-4ac1-b335-eb71b4fbd19a",
-      "status": "Published",
-      "departmentName": "Member Success",
-      "teamName": "Member Success",
-      "locationName": "United States",
-      "locationExternalName": null,
-      "workplaceType": "Remote",
-      "employmentType": "FullTime",
-      "isListed": true,
-      "publishedDate": "2026-08-18",
-      "applicationDeadline": null,
-      "externalLink": "https://jobs.ashbyhq.com/dave/979bfdbc-9f42-47a1-9964-fafb7a61916b",
-      "applyLink": "https://jobs.ashbyhq.com/dave/979bfdbc-9f42-47a1-9964-fafb7a61916b",
-      "locationIds": {
-        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
-        "secondaryLocationIds": []
-      },
-      "compensationTierSummary": "$126K – $163K • Offers Equity",
-      "shouldDisplayCompensationOnJobBoard": true,
-      "updatedAt": "2026-08-18T18:35:46.594Z"
-    },
-    {
       "id": "23c59358-e8c2-423c-a90c-ada119650dcc",
       "title": "Staff AI Acceleration Engineer",
       "jobId": "c21e27e7-c4fd-4b71-9d36-6eb4cf744eee",
@@ -409,6 +385,30 @@
       "compensationTierSummary": "$208K – $289K • Offers Equity",
       "shouldDisplayCompensationOnJobBoard": true,
       "updatedAt": "2026-11-19T00:04:54.643Z"
+    },
+    {
+      "id": "b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "title": "Staff Machine Learning Scientist",
+      "jobId": "4662d328-450b-448a-8921-2ad1363b00ba",
+      "status": "Published",
+      "departmentName": "Data & AI",
+      "teamName": "Machine Learning Science",
+      "locationName": "United States",
+      "locationExternalName": null,
+      "workplaceType": "Remote",
+      "employmentType": "FullTime",
+      "isListed": false,
+      "publishedDate": "2026-11-23",
+      "applicationDeadline": null,
+      "externalLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "applyLink": "https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2",
+      "locationIds": {
+        "primaryLocationId": "982339d6-f47b-41c6-b338-21445b31c907",
+        "secondaryLocationIds": []
+      },
+      "compensationTierSummary": "$208K – $269K • Offers Equity",
+      "shouldDisplayCompensationOnJobBoard": true,
+      "updatedAt": "2026-11-23T21:07:55.479Z"
     },
     {
       "id": "264e5d99-07bd-4966-80c9-49166b2540ae",
